@@ -1,8 +1,8 @@
 {
-    "url": "https://digant-prajapati.github.io/swagger-api/xss.json",
+    "url": "https://digant-prajapati.github.io/swagger-api/xss.yaml",
     "urls": [
         {
-            "url": "https://digant-prajapati.github.io/swagger-api/xss.json",
+            "url": "https://digant-prajapati.github.io/swagger-api/xss.yaml",
             "name": "dp"
         }
     ]
